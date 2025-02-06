@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hi, I'm <a>Alfonso</a> 👋</h1>
+</div>
+<img src="https://onlyflutter.com/wp-content/uploads/2024/05/android_banner_onlyflutter.png">
 
-<!--
-**adrouet88/adrouet88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ##About me
+- 💻   Software developer
+- 🧑‍🎓 Instituto Tecnológico superior Guyaquil
+- 📚   Keep studying
+- 🦾   Sports
 
-Here are some ideas to get you started:
+##Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Python
+- ☕ Java
+- 🐘 PHP
+- 💠 Dart
+- C++
+- 🛢️ SQL
+- 🍃 Non SQL
+
+- 🐧 Linux
+- 👨‍🔧 I.T. Support
