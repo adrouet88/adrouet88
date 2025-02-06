@@ -17,7 +17,7 @@
 - 💠 Dart
 - C++
 - 🛢️ SQL
-- 🍃 Non SQL
+- 🍃 No SQL
 
 - 🐧 Linux
 - 👨‍🔧 I.T. Support
