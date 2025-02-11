@@ -51,8 +51,25 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Proyecto de <strong>ESCRITORIO</strong> en Python para la venta de servicios de plataformas streaming.</p>
+</p>Proyecto en <strong>PHP</strong> aplicando las técnicas y usos de la caché simulando la venta de servicios streaming.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
 <br>
+
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Proyecto FUNSIBA JAVA</h3>
+<div align="center">
+<a href="" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAQDhWfvaHVaKtA5oQo1U1wHkpTAjrirE7sA&s" width="400" alt="Proyecto FUNSIBA"></a>
+<p>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Colaboracion para la <strong>IMPLEMENTACION</strong> de un sistema de registro de fichas e insumos</strong> QUE FACILITEN <strong> la gestion de sus pacientes.</p>
+</div>
+                                                                                      
+</td>
