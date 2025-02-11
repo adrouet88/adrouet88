@@ -78,9 +78,9 @@
 <td width="50%">
 <h3 align="center">Proyecto App Tienda</h3>
 <div align="center">
-<a href="" target="_blank"><img src="https://www.4webs.es/blog/wp-content/uploads/2016/12/app-ecommerce-prestashop.png" width="400" alt="App Tienda"></a>
+<a href="https://github.com/adrouet88/Proyecto_tienda_flutter.git" target="_blank"><img src="https://www.4webs.es/blog/wp-content/uploads/2016/12/app-ecommerce-prestashop.png" width="400" alt="App Tienda"></a>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/adrouet88/Proyecto_tienda_flutter.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
