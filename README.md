@@ -37,3 +37,22 @@
  
 <p>Colaboracion para el desarrollo de la App <strong>Biblioteca ISTG</strong> - Proyecto para la optimización de reserva de libros y la <strong>DESCARGA DIGITAL</strong> desde la comodidad de nuestra App.</p>
 </div>
+</td>
+
+
+<td width="50%">
+               <br>
+<h3 align="center">Proyecto PWA</h3>
+<div align="center">                                       
+<a href="" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="PWA"></a>
+<br>
+<p>
+<a href="" target="_blank">
+<img src="https://www.muycomputerpro.com/wp-content/uploads/2019/09/pwa.jpeg">
+</a>
+</p>
+</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
