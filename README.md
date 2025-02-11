@@ -44,14 +44,14 @@
                <br>
 <h3 align="center">Proyecto PWA</h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="PWA"></a>
+<a href="" target="_blank"><img src="https://www.muycomputerpro.com/wp-content/uploads/2019/09/pwa.jpeg" width="400" alt="PWA"></a>
 <br>
 <p>
 <a href="" target="_blank">
-<img src="https://www.muycomputerpro.com/wp-content/uploads/2019/09/pwa.jpeg">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Proyecto de <strong>ESCRITORIO</strong> en Python para la venta de servicios de plataformas streaming.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
