@@ -44,10 +44,10 @@
                <br>
 <h3 align="center">Proyecto PWA</h3>
 <div align="center">                                       
-<a href="" target="_blank"><img src="https://www.muycomputerpro.com/wp-content/uploads/2019/09/pwa.jpeg" width="400" alt="PWA"></a>
+<a href="https://github.com/adrouet88/Proyecto_PWA.git" target="_blank"><img src="https://www.muycomputerpro.com/wp-content/uploads/2019/09/pwa.jpeg" width="400" alt="PWA"></a>
 <br>
 <p>
-<a href="" target="_blank">
+<a href="https://github.com/adrouet88/Proyecto_PWA.git" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
