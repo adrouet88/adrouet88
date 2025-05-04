@@ -35,7 +35,10 @@
 </a>
 </p>
  
-<p>Colaboracion para el desarrollo de la App (Android nativo - JAVA ) <strong>Biblioteca ISTG</strong> - Proyecto para la optimización de reserva de libros y la <strong>DESCARGA DIGITAL</strong> desde la comodidad de nuestra App.</p> <a href="https://play.google.com/store/apps/details?id=istg.edu.ec.appbooks" target="_blank">  </a>
+<p>Colaboracion para el desarrollo de la App (Android nativo - JAVA ) <strong>Biblioteca ISTG</strong> - Proyecto para la optimización de reserva de libros y la <strong>DESCARGA DIGITAL</strong> desde la comodidad de nuestra App. <a href="https://play.google.com/store/apps/details?id=istg.edu.ec.appbooks" target="_blank">  
+<img src="Click_aqui_para_descargar_la_App">
+</a> 
+</p>
 </div>
 </td>
 
